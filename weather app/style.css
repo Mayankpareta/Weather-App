@@ -79,18 +79,13 @@ body{
     cursor: pointer;
 }
 
-/* .temperature-value p:hover{
-    
-} */
 
 .temperature-value span{
     color: #293251;
     font-size: 0.5em;
 }
 
-/* .temperature-description{
-    
-} */
+
 
 .temperature-description p{
     padding: 8px;
@@ -99,10 +94,8 @@ body{
     text-align: center;
     font-size: 1.2em;
 }
-/* 
-.location{
-    
-} */
+ 
+
 
 .location p{
     margin: 0;
